@@ -9,6 +9,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bearim_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerim-kuscu/)
+[![Medium](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=white)](https://medium.com/@kerimkuscu95)
 
 
 ## 💻 Tech Stack:
