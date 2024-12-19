@@ -7,9 +7,10 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bearim_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerim-kuscu/)
-[![Medium](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=white)](https://medium.com/@kerimkuscu95)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_bearim_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerim-kuscu/)
+[![Medium](https://img.shields.io/badge/Medium-000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kerimkuscu95)
+[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-fff.svg?style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/11022585/kerim-ku%c5%9fcu)
 
 
 ## 💻 Tech Stack:
@@ -43,3 +44,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=kerimkuscu&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kerimkuscu&theme=vue-dark&hide_border=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kerimkuscu&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 📚 Vue JS Libraries:
+[![NPM](https://nodei.co/npm/my-mask-library.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/my-mask-library/)
+[![NPM](https://nodei.co/npm/my-date-picker-library.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/my-date-picker-library/)
